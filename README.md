@@ -3,7 +3,7 @@
 Hi I'm Sven Patrick Meier, a young software engineer on his way to explore the world of Software Development.
 My interests as a Software Engineer are:
  - Automation of processes
- - Rapid Prototyping
+ - Rapid Development/Prototyping
  - Web development
  - Architecture Design
  - DevOps
