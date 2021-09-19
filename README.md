@@ -11,7 +11,7 @@ My interests as a Software Engineer are:
  
 Some other things:
 - 🔭 Currently working on my Website, but mainly coding for work
-- 🌱 Currently learning Docker, Gitlab CI, Kubernetes, Webpack
+- 🌱 Currently learning Kubernetes, Ansible, workflow enforcement, Jenkins CI 
 - 💬 Ask me about: Gitlab (CI/CD), WebDev, Typescript, React, Python, Docker
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I better learn when teaching
