@@ -1,17 +1,25 @@
-### Hi there 👋
+### Hi, I'm SPMSE
 
-Hi I'm Sven Patrick Meier, a young software engineer on his way to explore the world of Software Development.
-My interests as a Software Engineer are:
- - DevOps/GitOps
- - Web Development
- - Automation
- - Rapid Development/Prototyping/Code generation
- - Architecture Design
- - Programming Languages
+My name is Sven Patrick (or just SP) and I am a Software Engineer, Architect, and DevOps/Platform Engineering Trainer.
+
+#### My interests
+
+ - DevOps/DevSecOps/GitOps
+ - Platform/DevOps Engineering
+ - Project and Infrastructure Automation
+ - SaaS-Development
+ - Project Management
+ - Education Solutions/Training/Workshops
+ - Networking with others during conferences
+
+#### My Goals
+
+- Providing user-centric and hands-on first training experiences around cloud-native technologies for everyone
+- Contribute back to the OSS community
  
-Some other things:
-- 🔭 Currently working on my Website, but mainly coding for work
-- 🌱 Currently learning Kubernetes, Ansible, workflow enforcement, Jenkins CI 
-- 💬 Ask me about: Gitlab (CI/CD), WebDev, Typescript, React, Python, Docker
+#### Some other things
+
+- 🔭 Currently mostly working for my company
+- 🌱 Currently learning more about advanced automation techniques, team building, entrepreneurship, community building
+- 💬 You can ask me about WebDev, Typescript, React, NextJS, Python, Docker, GitLab CI, CI/CD, Kubernetes, Ansible, Terraform/OpenTofu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I better learn when teaching
