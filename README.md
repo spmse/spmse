@@ -10,7 +10,7 @@ My name is Sven Patrick (or just SP) and I am a Software Engineer, Architect, an
  - SaaS-Development
  - Project Management
  - Education Solutions/Training/Workshops
- - Networking with others during conferences
+ - Networking with others
 
 #### My Goals
 
@@ -19,7 +19,11 @@ My name is Sven Patrick (or just SP) and I am a Software Engineer, Architect, an
  
 #### Some other things
 
-- 🔭 Currently mostly working for my company
-- 🌱 Currently learning more about advanced automation techniques, team building, entrepreneurship, community building
-- 💬 You can ask me about WebDev, Typescript, React, NextJS, Python, Docker, GitLab CI, CI/CD, Kubernetes, Ansible, Terraform/OpenTofu
+- 🔭 Mostly working as a Consultant, Trainer, or Developer
+- 🌱 Currently learning more about
+    - the Go programming language
+    - community building,
+    - entrepreneurship,
+    - team building
+- 💬 You can ask me about WebDev, Typescript, React, NextJS, Python, Docker, GitLab CI, Jenkins, Github Actions, CI/CD, Kubernetes, Helm, Ansible, Terraform
 - 😄 Pronouns: he/him
