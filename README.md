@@ -1,8 +1,11 @@
 # Hi, I'm SPMSE 👋
 
 > Full name: Sven Patrick Meier
+>
 > Nickname: "SP"
+>
 > Pronouns: He/Him
+>
 > Age: 31
 
 My name is Sven and I am a DevOps and Platform Engineering Trainer.
